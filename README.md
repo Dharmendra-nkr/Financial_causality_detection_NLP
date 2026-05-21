@@ -2,6 +2,10 @@
 
 This repository contains the code, notebooks, datasets, and results for a financial causality detection project built around a multimodal FinBERT pipeline. The work progresses through multiple phases, ending with a Phase 5 Colab workflow that evaluates the model, runs ablation studies, and measures robustness under several perturbation settings.
 
+![Methodology diagram](docs/assets/methodology.png)
+
+Download the project methodology PDF: [NLP_Team_33__Multimodal_LLMs_for_Financial_Causality_Detection_Using_Text_and_Numerical_Signals.pdf](docs/NLP_Team_33__Multimodal_LLMs_for_Financial_Causality_Detection_Using_Text_and_Numerical_Signals.pdf)
+
 ## Project Scope
 
 The main goal of the project is to detect causal relationships in financial text by combining:
