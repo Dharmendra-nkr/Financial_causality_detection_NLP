@@ -1,0 +1,9 @@
+# Large datasets and extracted model artifacts
+final_financial_causality_dataset.csv
+final_financial_causality_dataset.local.csv
+label_shifted_fin_causality_dataset.csv
+model_extracted/
+multimodal_model_20260221_141142.pkl.zip
+multimodal_model_reconstructed.pkl
+*.pkl
+*.pkl.zip
